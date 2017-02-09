@@ -9,9 +9,13 @@ min.
 
 ## Usage
 To run this program, run the following commands in your shell:
+
 `make`
+
 `./server &`
+
 `./client localhost`
+
 At this point, you will be interacting with the program. After you exit the
 program, run:
 `kill <PID>`, where `<PID>` is the pid of the server.

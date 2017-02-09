@@ -10,11 +10,11 @@ min.
 ## Usage
 To run this program, run the following commands in your shell:
 
-`make`
+`> make`
 
-`./server &`
+`> ./server &`
 
-`./client localhost`
+`> ./client localhost`
 
 At this point, you will be interacting with the program. After you exit the
 program, run:
